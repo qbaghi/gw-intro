@@ -6,6 +6,7 @@ This repository contains material for an [EIDD Engineering School](https://u-par
 * How to use the Fourier transform and time-frequency representations to analyse detector measurements
 
 Note: This repository is a fork and an adaptation of [a repository used in the GW open data workshop](https://github.com/jkanner/gw-intro).
+
 Follow the steps below to start the project:
 
 ## 1. Pre-requisite: learn about gravitational waves
