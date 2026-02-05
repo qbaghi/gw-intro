@@ -1,7 +1,11 @@
 # Introduction to Gravitational Wave Data Analysis
 
-A short introduction to working with gravitational wave data, with an emphasis on spectral analysis.
-This is a fork from [this repository](https://github.com/jkanner/gw-intro) adapted for [EIDD Engineering School](https://u-paris.fr/eidd/en/homepage/) projects.
+This repository contains material for an [EIDD Engineering School](https://u-paris.fr/eidd/en/homepage/) project that will provide you with
+* A short introduction to working with gravitational wave (GW) data
+* How to simulate the expected gravitational-wave signals
+* How to use the Fourier transform and time-frequency representations to analyse detector measurements
+
+This repository is a fork of [a repository used in the GW open data workshop](https://github.com/jkanner/gw-intro), adapted for the engineering project.
 
 For more information, see https://gwosc.org
 
