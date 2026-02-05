@@ -1,4 +1,4 @@
-# Introduction to Gravitational Wave Data Analysis
+# EIDD project: Introduction to Gravitational Wave Data Analysis
 
 This repository contains material for an [EIDD Engineering School](https://u-paris.fr/eidd/en/homepage/) project that will provide you with
 * A short introduction to working with gravitational wave (GW) data
