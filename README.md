@@ -5,21 +5,31 @@ This repository contains material for an [EIDD Engineering School](https://u-par
 * How to simulate the expected gravitational-wave signals
 * How to use the Fourier transform and time-frequency representations to analyse detector measurements
 
-This repository is a fork of [a repository used in the GW open data workshop](https://github.com/jkanner/gw-intro), adapted for the engineering project.
+Note: This repository is a fork of [a repository used in the GW open data workshop](https://github.com/jkanner/gw-intro), adapted for the engineering project.
 
-For more information, see https://gwosc.org
+## 1. Pre-requisite: learn about gravitational waves
 
-## Use either option below to run the tutorials in your browser
+To get more familiar with the gravitational waves, how they are emitted, and how they are detected, please consult the following materials:
+* Watch the two videos in https://gwosc.org/path/ (Step 1 and Step 2)
+* Read pages 5 to 13 of the [LIGO's educator guide](https://dcc.ligo.org/public/0123/P1600015/006/LIGOEdGuide_Final.pdf)
 
-### Option 1: Run the tutorials in mybinder
+## 2. Run the tutorials
 
- * Click the badge:   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkanner/gw-intro/main)
+We will use Jupyter notebooks written in Python for this project.
+Use either option below to run the tutorials in your browser.
 
-### Option 2: Run the tutorials in Google Co-lab
+### Option 1: Run the tutorials in Google Co-lab
 
-* Click the badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jkanner/gw-intro/blob/main)
+1. Click the badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jkanner/gw-intro/blob/main)
+2. Double-click the notebook of your choice
+3. At the top of the notebook, uncomment any `pip install` commands by removing the `#`, like:
 
-### Option 3: Run the tutorials locally (for Linux or Mac)
+     `! pip install -q pycbc gwpy`
+
+4. Click `run all` from the `runtime` menu at the top
+5. You can also run the cells one by one by clickingthe Play button in the top-left corner of each cell.
+
+### Option 2: Run the tutorials locally (for Linux or Mac)
 
 1. Install Miniconda by following the installation instructions for your operating system:
 
@@ -59,15 +69,21 @@ For more information, see https://gwosc.org
    
 * Clone the repository by running
 
+## 3. Answer the tutorial questions
 
-## Video Lectures
+Starting with the first tutorial, please answer the questions that are asked.
+Your answers constitute the output of this engineering project. You can either answer them within the notebooks or in a separate document.
+If time permits, we will go beyond these tutorials and explore more sophisticated data analysis methods.
+
+## 4. Further help: Video Lectures
 
 [Recorded Lectures](https://labcit.ligo.caltech.edu/~jkanner/gwosc/intro-course/) accompany these tutorials.
+You can use them to answer the questions.
 
-## Addtional instructions
+## Additional instructions
 
 See [Open Data Workshop 2021](https://github.com/gw-odw/odw-2021/blob/master/setup.md) for video help and other software setup suggestions.
 
 ## Acknowledgement
 
-This research has made use of data or software obtained from the Gravitational Wave Open Science Center (gwosc.org), a service of the LIGO Scientific Collaboration, the Virgo Collaboration, and KAGRA.  Materials inspired by the GW Open Data Workshop, at https://github.com/gw-odw
+This research has made use of data or software obtained from the Gravitational Wave Open Science Center (gwosc.org), a service of the LIGO Scientific Collaboration, the Virgo Collaboration, and KAGRA. Materials inspired by the GW Open Data Workshop, at https://github.com/gw-odw
