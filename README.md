@@ -79,7 +79,7 @@ In the last tutorial `intro-6-whiten-bandpass.ipynb`, the last question you are 
 We will discuss the strategy you may adopt. If time permits, we will go beyond these tutorials and explore more sophisticated data analysis methods.
 
 
-## 5. Further help: Video Lectures
+## Further help: Video Lectures
 
 [Recorded Lectures](https://labcit.ligo.caltech.edu/~jkanner/gwosc/intro-course/) accompany these tutorials.
 You can use them to answer the questions.
