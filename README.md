@@ -67,15 +67,19 @@ Use either option below to run the tutorials in your browser.
 
    `jupyter notebook` and select the kernel `odw-py311` if this is not done by default.
    
-* Clone the repository by running
 
 ## 3. Answer the tutorial questions
 
 Starting with the first tutorial, please answer the questions that are asked.
-Your answers constitute the output of this engineering project. You can either answer them within the notebooks or in a separate document.
-If time permits, we will go beyond these tutorials and explore more sophisticated data analysis methods.
+Your answers constitute part of the output of this engineering project. You can either answer them within the notebooks or in a separate document.
 
-## 4. Further help: Video Lectures
+## 4. Address the problem posed at the end of tutorial 6
+
+In the last tutorial `intro-6-whiten-bandpass.ipynb`, the last question you are asked is more open and requires some investigation.
+We will discuss the strategy you may adopt. If time permits, we will go beyond these tutorials and explore more sophisticated data analysis methods.
+
+
+## 5. Further help: Video Lectures
 
 [Recorded Lectures](https://labcit.ligo.caltech.edu/~jkanner/gwosc/intro-course/) accompany these tutorials.
 You can use them to answer the questions.
