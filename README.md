@@ -1,5 +1,8 @@
 # EIDD project: Introduction to Gravitational Wave Data Analysis
 
+![Spiral Dance of Black Holes](https://www.ligo.caltech.edu/system/pages/images/24/page/Gravity_Waves_StillImage.jpg?1699659823 'Image credit: LIGO/T. Pyle')
+
+
 This repository contains material for an [EIDD Engineering School](https://u-paris.fr/eidd/en/homepage/) project that will provide you with
 * A short introduction to working with gravitational wave (GW) data
 * How to simulate the expected gravitational-wave signals
